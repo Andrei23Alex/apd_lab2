@@ -1,1 +1,1 @@
-﻿#define LED_PIN 13 // LED de stare
+﻿#define SERIAL_BAUD 115200 // viteza portului serial
